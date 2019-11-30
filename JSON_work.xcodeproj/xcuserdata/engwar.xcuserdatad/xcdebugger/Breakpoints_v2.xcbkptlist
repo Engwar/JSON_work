@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CB809FFB-BE08-4041-92B3-3F8A4A4AF946"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29404E40-3AEF-45D4-ABE9-EDDF700BBD37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadTodos(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35583C32-C849-4813-A681-41A8B567B050"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "loadUsers(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB506A31-BDD5-4895-8FB1-0E329EBDEF19"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loadTodos(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB506A31-BDD5-4895-8FB1-0E329EBDEF19 - 792ad785cb97dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, JSON_work.ServiceError&gt;) -&gt; () in JSON_work.NetServices.loadTodos((Swift.Result&lt;Swift.Array&lt;JSON_work.Todo&gt;, JSON_work.ServiceError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JSON_work"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engwar/Yandex.Disk.localized/Yandex.Disk.localized/JSON_work/JSON_work/Methods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "BB506A31-BDD5-4895-8FB1-0E329EBDEF19 - 792ad785cb97dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, JSON_work.ServiceError&gt;) -&gt; () in JSON_work.NetServices.loadTodos((Swift.Result&lt;Swift.Array&lt;JSON_work.Todo&gt;, JSON_work.ServiceError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JSON_work"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engwar/Yandex.Disk.localized/Yandex.Disk.localized/JSON_work/JSON_work/Methods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F827B7FF-1C45-424D-AE1B-DCECFDA0F702"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "loadUsers(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F827B7FF-1C45-424D-AE1B-DCECFDA0F702 - 3311664c18f66ec0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, JSON_work.ServiceError&gt;) -&gt; () in JSON_work.NetServices.loadUsers((Swift.Result&lt;Swift.Array&lt;JSON_work.User&gt;, JSON_work.ServiceError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JSON_work"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engwar/Yandex.Disk.localized/Yandex.Disk.localized/JSON_work/JSON_work/Methods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "F827B7FF-1C45-424D-AE1B-DCECFDA0F702 - 3311664c18f66ec0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, JSON_work.ServiceError&gt;) -&gt; () in JSON_work.NetServices.loadUsers((Swift.Result&lt;Swift.Array&lt;JSON_work.User&gt;, JSON_work.ServiceError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JSON_work"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engwar/Yandex.Disk.localized/Yandex.Disk.localized/JSON_work/JSON_work/Methods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78DA11D9-0C4A-4D0C-B64D-8D3481E245BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchdata(from:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78DA11D9-0C4A-4D0C-B64D-8D3481E245BC - 6116283afd1801a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JSON_work.NetServices.(fetchdata in _151765A0EA50506A653B1AD38985AA20)(from: Foundation.URL, _: (Swift.Result&lt;Foundation.Data, JSON_work.ServiceError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JSON_work"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engwar/Yandex.Disk.localized/Yandex.Disk.localized/JSON_work/JSON_work/Methods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "78DA11D9-0C4A-4D0C-B64D-8D3481E245BC - ada0457d90df1c87"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in JSON_work.NetServices.(fetchdata in _151765A0EA50506A653B1AD38985AA20)(from: Foundation.URL, _: (Swift.Result&lt;Foundation.Data, JSON_work.ServiceError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "JSON_work"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engwar/Yandex.Disk.localized/Yandex.Disk.localized/JSON_work/JSON_work/Methods.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44F8D9D9-9A62-4E8A-A0FD-422A68BEAC6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchdata(from:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "533C5527-03A5-4D48-BC2E-BC95AA8A7AF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSON_work/Methods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "loadUsers(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
